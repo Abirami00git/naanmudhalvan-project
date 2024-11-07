@@ -1,1 +1,5 @@
+Heart Disease Prediction
 
+This project focuses on predicting heart disease risk using machine learning.
+Developed in Google Colab, it leverages a Kaggle dataset, guided by a comprehensive YouTube tutorial. 
+The repository includes all necessary code and resources for efficient setup and execution.
